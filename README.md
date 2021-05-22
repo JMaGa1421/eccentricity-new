@@ -15,4 +15,4 @@ $ firebase init
 $ firebase deploy
 ```
 ## Visual
-The project can be viewed <a href="eccentricity-new.web.app">here.</a>
+The project can be viewed <a href="https://eccentricity-new.web.app">here.</a>
